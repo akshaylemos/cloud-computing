@@ -9,7 +9,7 @@ dnspython==1.16.0
 docopt==0.6.2
 eventlet==0.25.1
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-PyMongo==2.3.0
 Flask-SQLAlchemy==2.3.2
 google-api-core==1.14.2
